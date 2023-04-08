@@ -7,4 +7,4 @@
   * **Restaurant allows you to order food at home through this website.**
   
   
-## This front-end project is made completely using HTML, CSS, JavaScript and Bootstrap.
+## This front-end project is built completely using HTML, CSS, JavaScript and Bootstrap.
