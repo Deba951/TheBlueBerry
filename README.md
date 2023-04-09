@@ -23,3 +23,4 @@
 
 ## Devpost liink: https://devpost.com/software/the-blueberry
 ## Website link: https://deba951.github.io/TheBlueBerry/
+## Demo video link: https://www.youtube.com/watch?v=L1uXj_f2aeg
