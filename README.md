@@ -7,8 +7,8 @@
   * **Restaurant allows you to order food at home through this website.**
   
   
-## This front-end project is built completely using HTML, CSS, JavaScript and Bootstrap.
+## This front-end project is built completely using HTML5, CSS3, JavaScript, JSON and Bootstrap.
 
 
 
-# Website link: https://deba951.github.io/TheBlueBerry/
+## Website link: https://deba951.github.io/TheBlueBerry/
